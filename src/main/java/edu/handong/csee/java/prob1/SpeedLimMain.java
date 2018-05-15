@@ -2,7 +2,7 @@ package edu.handong.csee.java.prob1; //a new package
 import java.util.Scanner; //importing the scanner 
 import java.util.Random;  //importing the random
 
-public class SpeedLim_main { //new class is made
+public class SpeedLimMain { //new class is made
 	public static void main(String[] args) { //the main method is made
 
 		Scanner keyboard = new Scanner(System.in); //instantiating the scanner as keyboard

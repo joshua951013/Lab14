@@ -1,13 +1,13 @@
 package edu.handong.csee.java.prob2;//a new package
 import java.util.*; //imports the following
 
-public class In_exception { //a new class
+public class InException { //a new class
 
 	private int x = 0, y = 0; //instance variables 
-	public In_exception() // public constructor 
+	public InException() // public constructor 
 	{}
 
-	public void error_det() { //a new method 
+	public void errorDet() { //a new method 
 		try{ //try statement
 			Scanner keyboard = new Scanner(System.in); //instantiating the scanner as keyboard
 			System.out.print("x: "); //prints the following
